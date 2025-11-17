@@ -59,5 +59,11 @@ From fig. shows only 4 LP modes propagates.
 Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
+
+<img width="719" height="652" alt="image" src="https://github.com/user-attachments/assets/0499eefc-c194-4829-8543-7c0d6df87cd4" />
+
 ## Tabulation
+![WhatsApp Image 2025-11-17 at 10 01 02_859e5ce8](https://github.com/user-attachments/assets/cef2a0f8-84b8-420a-bb60-e8f2bf9dd1a5)
+
 ## Result
+Thus mode characteristics of fiber optical studied and lower LP modules (LP11,LP21) were observed confirms.The existence of distinct guided modes in this fiber.
